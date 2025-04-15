@@ -44,5 +44,5 @@ create_pass= tk.Label(frame2, text="Create an Account", fg= "dodgerblue2"
 , font=("Arial", 12))
 create_pass.pack(pady=45)
 
-button= tk.Button(frame1, text="Log in", font=("Arial", 15), bg= "dodgerblue2", fg= "white", width= 20)
+
 window.mainloop()
